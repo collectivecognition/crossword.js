@@ -301,9 +301,11 @@ var Crossword = function(data, options){
 	});
 	
 	this.util.bind(this.wrapper, "keypress", function(e){
+		if(key === 8 || key === 46){
 			e.preventDefault();
 			e.stopPropagation();
 			return false;	
+		}
 	});
  	
  	// $(document).keypress(function(event){if (key === 8 || key === 46) {return false;}});
