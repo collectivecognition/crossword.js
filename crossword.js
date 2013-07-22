@@ -24,11 +24,14 @@ var Crossword = function(data, options){
 	
 	this.util = {
 		bind: function(el, type, handler){
-			if(el.addEventListener){
-				el.addEventListener(type, handler, false);
-			}else{
-				if(el.attachEvent){
-					el.attachEvent("on" + type, handler);
+			if(typeof type === "string") type = [type];
+			for(var t = 0; t < type.length; t++){
+				if(el.addEventListener){
+					el.addEventListener(type[t], handler, false);
+				}else{
+					if(el.attachEvent){
+						el.attachEvent("on" + type[t], handler);
+					}
 				}
 			}
 		},
