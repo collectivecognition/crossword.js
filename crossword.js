@@ -190,8 +190,8 @@ var Crossword = function(data, options){
 			}else{
 				row -= 1;
 				if(row < 0){
-					row -= 1;
-					row = scope.height - 1;
+					col -= 1;
+					row = scope.height - 2;
 					if(col < 0){
 						col = scope.width - 1;
 					}
