@@ -1,0 +1,553 @@
+{
+	"name": [
+		"NY Times, Thu, Jul 18, 2013"
+	],
+	"author": [
+		"Todd Gross and David Steinberg"
+	],
+	"clues": {
+		"across": [
+			{
+				"row": 1,
+				"column": 1,
+				"number": 1,
+				"answer": "MINSK",
+				"clue": "European capital ENE of Warsaw"
+			},
+			{
+				"row": 1,
+				"column": 7,
+				"number": 6,
+				"answer": "SWM",
+				"clue": "Guy seeking love letters?"
+			},
+			{
+				"row": 1,
+				"column": 11,
+				"number": 9,
+				"answer": "BRAVE",
+				"clue": "Herolike"
+			},
+			{
+				"row": 2,
+				"column": 1,
+				"number": 14,
+				"answer": "OMANI",
+				"clue": "Sultanate inhabitant"
+			},
+			{
+				"row": 2,
+				"column": 7,
+				"number": 15,
+				"answer": "TAO",
+				"clue": "Meditation subject"
+			},
+			{
+				"row": 2,
+				"column": 11,
+				"number": 16,
+				"answer": "LORAX",
+				"clue": "Hit 2012 animated film, with \"The\""
+			},
+			{
+				"row": 3,
+				"column": 1,
+				"number": 17,
+				"answer": "CAPEK",
+				"clue": "Author of sci-fi's \"War With the Newts\""
+			},
+			{
+				"row": 3,
+				"column": 7,
+				"number": 18,
+				"answer": "ARR",
+				"clue": "Music sheet abbr."
+			},
+			{
+				"row": 3,
+				"column": 11,
+				"number": 19,
+				"answer": "EAGLE",
+				"clue": "Great Seal figure"
+			},
+			{
+				"row": 4,
+				"column": 2,
+				"number": 20,
+				"answer": "MARILYNMONROE",
+				"clue": "23-Across singer"
+			},
+			{
+				"row": 6,
+				"column": 1,
+				"number": 24,
+				"answer": "AHN",
+				"clue": "Philip with a Hollywood star"
+			},
+			{
+				"row": 6,
+				"column": 5,
+				"number": 27,
+				"answer": "ENTENTE",
+				"clue": "State cooperation"
+			},
+			{
+				"row": 6,
+				"column": 13,
+				"number": 28,
+				"answer": "ASH",
+				"clue": "Neutral shade"
+			},
+			{
+				"row": 7,
+				"column": 1,
+				"number": 31,
+				"answer": "REEKED",
+				"clue": "Was very ripe"
+			},
+			{
+				"row": 7,
+				"column": 10,
+				"number": 33,
+				"answer": "ADJURE",
+				"clue": "Appeal to earnestly"
+			},
+			{
+				"row": 8,
+				"column": 1,
+				"number": 35,
+				"answer": "IRAN",
+				"clue": "Home to Asia's highest volcano"
+			},
+			{
+				"row": 8,
+				"column": 6,
+				"number": 36,
+				"answer": "EQUIP",
+				"clue": "Gear up?"
+			},
+			{
+				"row": 8,
+				"column": 12,
+				"number": 40,
+				"answer": "ETTE",
+				"clue": "Sermon follower"
+			},
+			{
+				"row": 9,
+				"column": 1,
+				"number": 41,
+				"answer": "ARTE",
+				"clue": "Man's name that sounds like two letters of the alphabet"
+			},
+			{
+				"row": 9,
+				"column": 6,
+				"number": 42,
+				"answer": "NERVE",
+				"clue": "It may be in a bundle"
+			},
+			{
+				"row": 9,
+				"column": 12,
+				"number": 43,
+				"answer": "TOAD",
+				"clue": "Pod : whale :: knot : ___"
+			},
+			{
+				"row": 10,
+				"column": 3,
+				"number": 44,
+				"answer": "FLO",
+				"clue": "___ Rida (\"Right Round\" rapper)"
+			},
+			{
+				"row": 10,
+				"column": 7,
+				"number": 46,
+				"answer": "DIY",
+				"clue": "Inits. for Lowe's or Home Depot shoppers"
+			},
+			{
+				"row": 10,
+				"column": 11,
+				"number": 47,
+				"answer": "ALG",
+				"clue": "N. Afr. nation"
+			},
+			{
+				"row": 11,
+				"column": 1,
+				"number": 48,
+				"answer": "TARTUP",
+				"clue": "Decorate flashily, informally"
+			},
+			{
+				"row": 11,
+				"column": 10,
+				"number": 51,
+				"answer": "BEIRUT",
+				"clue": "Capital on the Mediterranean"
+			},
+			{
+				"row": 12,
+				"column": 1,
+				"number": 54,
+				"answer": "RUE",
+				"clue": "___ the day"
+			},
+			{
+				"row": 12,
+				"column": 5,
+				"number": 55,
+				"answer": "SLATHER",
+				"clue": "Lay on thick"
+			},
+			{
+				"row": 12,
+				"column": 13,
+				"number": 59,
+				"answer": "APU",
+				"clue": "Satyajit Ray's \"The ___ Trilogy\""
+			},
+			{
+				"row": 13,
+				"column": 1,
+				"number": 60,
+				"answer": "ADAM",
+				"clue": "Levine of \"The Voice\""
+			},
+			{
+				"row": 13,
+				"column": 6,
+				"number": 62,
+				"answer": "ELIEL",
+				"clue": "Architect Saarinen"
+			},
+			{
+				"row": 13,
+				"column": 12,
+				"number": 63,
+				"answer": "IPOD",
+				"clue": "Item clipped on a waistband, perhaps"
+			},
+			{
+				"row": 14,
+				"column": 1,
+				"number": 64,
+				"answer": "WIKI",
+				"clue": "Open-ended reference"
+			},
+			{
+				"row": 14,
+				"column": 6,
+				"number": 65,
+				"answer": "ABC'S",
+				"clue": "They're elementary"
+			},
+			{
+				"row": 14,
+				"column": 12,
+				"number": 66,
+				"answer": "OHNO",
+				"clue": "\"This is horrible news!\""
+			},
+			{
+				"row": 15,
+				"column": 1,
+				"number": 67,
+				"answer": "LOST",
+				"clue": "Like some causes"
+			},
+			{
+				"row": 15,
+				"column": 7,
+				"number": 68,
+				"answer": "ASS",
+				"clue": "Total jerk"
+			},
+			{
+				"row": 15,
+				"column": 12,
+				"number": 69,
+				"answer": "USER",
+				"clue": "___ group"
+			}
+		],
+		"down": [
+			{
+				"row": 1,
+				"column": 1,
+				"number": 1,
+				"answer": "MOC",
+				"clue": "Comfy slip-on"
+			},
+			{
+				"row": 1,
+				"column": 2,
+				"number": 2,
+				"answer": "IMAM",
+				"clue": "Kuwait V.I.P."
+			},
+			{
+				"row": 1,
+				"column": 3,
+				"number": 3,
+				"answer": "NAPA",
+				"clue": "Chain for car mechanics"
+			},
+			{
+				"row": 1,
+				"column": 4,
+				"number": 4,
+				"answer": "SNERD",
+				"clue": "Dummy of old radio"
+			},
+			{
+				"row": 1,
+				"column": 5,
+				"number": 5,
+				"answer": "KIKIDEE",
+				"clue": "Elton John duettist on the #1 \"Don't Go Breaking My Heart\""
+			},
+			{
+				"row": 1,
+				"column": 7,
+				"number": 6,
+				"answer": "STAYAT",
+				"clue": "Visit overnight"
+			},
+			{
+				"row": 1,
+				"column": 8,
+				"number": 7,
+				"answer": "WARNME",
+				"clue": "Advance notice request"
+			},
+			{
+				"row": 1,
+				"column": 9,
+				"number": 8,
+				"answer": "MORMON",
+				"clue": "Mitt Romney, e.g."
+			},
+			{
+				"row": 1,
+				"column": 11,
+				"number": 9,
+				"answer": "BLENDED",
+				"clue": "Like some Scotch"
+			},
+			{
+				"row": 1,
+				"column": 12,
+				"number": 10,
+				"answer": "ROARS",
+				"clue": "Engine sounds"
+			},
+			{
+				"row": 1,
+				"column": 13,
+				"number": 11,
+				"answer": "ARGO",
+				"clue": "Mythical ship"
+			},
+			{
+				"row": 1,
+				"column": 14,
+				"number": 12,
+				"answer": "VALE",
+				"clue": "Goodbye, in old Rome"
+			},
+			{
+				"row": 1,
+				"column": 15,
+				"number": 13,
+				"answer": "EXE",
+				"clue": "Program file suffix"
+			},
+			{
+				"row": 4,
+				"column": 6,
+				"number": 21,
+				"answer": "LINDEN",
+				"clue": "Shade tree with deep-red winter buds"
+			},
+			{
+				"row": 4,
+				"column": 10,
+				"number": 22,
+				"answer": "ONTAPE",
+				"clue": "Like some books nowadays"
+			},
+			{
+				"row": 6,
+				"column": 1,
+				"number": 24,
+				"answer": "ARIA",
+				"clue": "Something for trill-seekers?"
+			},
+			{
+				"row": 6,
+				"column": 2,
+				"number": 25,
+				"answer": "HERR",
+				"clue": "Mr. Hamburger?"
+			},
+			{
+				"row": 6,
+				"column": 3,
+				"number": 26,
+				"answer": "NEATFREAKS",
+				"clue": "Obsessive organizers"
+			},
+			{
+				"row": 6,
+				"column": 13,
+				"number": 28,
+				"answer": "AUTOGRAPHS",
+				"clue": "Features of some prized memorabilia"
+			},
+			{
+				"row": 6,
+				"column": 14,
+				"number": 29,
+				"answer": "SRTA",
+				"clue": "Sp. title"
+			},
+			{
+				"row": 6,
+				"column": 15,
+				"number": 30,
+				"answer": "HEED",
+				"clue": "Mind"
+			},
+			{
+				"row": 7,
+				"column": 4,
+				"number": 32,
+				"answer": "KNELT",
+				"clue": "Used a prie-dieu"
+			},
+			{
+				"row": 7,
+				"column": 12,
+				"number": 34,
+				"answer": "JETLI",
+				"clue": "\"The Expendables\" co-star, 2010"
+			},
+			{
+				"row": 8,
+				"column": 7,
+				"number": 37,
+				"answer": "QED",
+				"clue": "Latin abbr. used in math"
+			},
+			{
+				"row": 8,
+				"column": 8,
+				"number": 38,
+				"answer": "URI",
+				"clue": "Swiss canton"
+			},
+			{
+				"row": 8,
+				"column": 9,
+				"number": 39,
+				"answer": "IVY",
+				"clue": "Penn, e.g."
+			},
+			{
+				"row": 10,
+				"column": 5,
+				"number": 45,
+				"answer": "OUS",
+				"clue": "Suffix with peril"
+			},
+			{
+				"row": 10,
+				"column": 11,
+				"number": 47,
+				"answer": "AER",
+				"clue": "___ Lingus"
+			},
+			{
+				"row": 11,
+				"column": 1,
+				"number": 48,
+				"answer": "TRAWL",
+				"clue": "Word with line or net"
+			},
+			{
+				"row": 11,
+				"column": 2,
+				"number": 49,
+				"answer": "AUDIO",
+				"clue": "Voices, perhaps"
+			},
+			{
+				"row": 11,
+				"column": 6,
+				"number": 50,
+				"answer": "PLEA",
+				"clue": "Court claim"
+			},
+			{
+				"row": 11,
+				"column": 10,
+				"number": 51,
+				"answer": "BELS",
+				"clue": "Sound units"
+			},
+			{
+				"row": 11,
+				"column": 14,
+				"number": 52,
+				"answer": "UPONE",
+				"clue": "Marginally ahead"
+			},
+			{
+				"row": 11,
+				"column": 15,
+				"number": 53,
+				"answer": "TUDOR",
+				"clue": "Bloody Mary, e.g."
+			},
+			{
+				"row": 12,
+				"column": 7,
+				"number": 56,
+				"answer": "ALBA",
+				"clue": "Duchess of ___ (Goya subject)"
+			},
+			{
+				"row": 12,
+				"column": 8,
+				"number": 57,
+				"answer": "TICS",
+				"clue": "Odd behaviors"
+			},
+			{
+				"row": 12,
+				"column": 9,
+				"number": 58,
+				"answer": "HE'S",
+				"clue": "\"___ a Rebel\""
+			},
+			{
+				"row": 13,
+				"column": 4,
+				"number": 61,
+				"answer": "MIT",
+				"clue": "Sch. that e-mails application decisions on Pi Day"
+			},
+			{
+				"row": 13,
+				"column": 12,
+				"number": 63,
+				"answer": "IOU",
+				"clue": "Indicator of shortness, for short"
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Crossword.js Example</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="../crossword.js"></script>
+		<link rel="stylesheet" href="../crossword.css">
+	</head>
+	<body>
+		<div id="target"></div>
+		<script>
+			$(function() {
+				$.getJSON("example.json", function(data){
+					top.crossword = crossword = new Crossword(data, {target: "#target"});
+				});
+			});
+		</script>
+	</body>
+</html>
