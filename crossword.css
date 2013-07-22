@@ -47,21 +47,21 @@
 	background: #a5e7ff;
 }
 
-.crossword .cell.selected {
+.crossword:focus .cell.selected {
 	background: #a5e7ff;
 	color: #25343c;
 }
 
-.crossword .cell.selected:hover {
+.crossword:focus .cell.selected:hover {
 	background: #ccf1ff;
 }
 
-.crossword .cell.selected-clue {
+.crossword:focus .cell.selected-clue {
 	background: #fffaa5;
 	color: #3c3b25;
 }
 
-.crossword .cell.selected-clue:hover {
+.crossword:focus .cell.selected-clue:hover {
 	background: #fffdd7;
 }
 
