@@ -20,6 +20,10 @@ var Crossword = function(data, options){
 	
 	this.options.target = this.options.target ? typeof this.options.target === "object" ? this.options.target : document.querySelector(this.options.target) : document.body;
 	
+	// AutoFocus specified whether to give input focus to the puzzle on instantiation; default is true
+	
+	this.options.autoFocus = typeof this.options.autoFocus === "undefined" ? true : this.options.autoFocus ? true : false;
+	
 	// Utility methods
 	
 	this.util = {
@@ -277,6 +281,10 @@ var Crossword = function(data, options){
 	this.options.target.appendChild(scope.wrapper);
 	this.wrapper.className = "crossword";
 	this.wrapper.tabIndex = 0; // Make div focusable so it can receive input events while not mangling the rest of the page
+	
+	// Auto-focus if requested
+	
+	if(this.options.autoFocus) this.wrapper.focus();
 	
 	// Create clue element
 	

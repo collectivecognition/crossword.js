@@ -6,8 +6,8 @@
 [ ] Delete letters
 [ ] Onscreen keyboard for mobile devices
 [ ] Configure whether clue at top or bottom
-[ ] Auto-focus option
 [ ] Tests
+[X] Auto-focus option
 [X] Button to toggle direction
 [X] Highlight current line
 [X] Script to convert existing crossword files to JSON
